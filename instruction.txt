@@ -1,0 +1,2 @@
+first run the setup file which create all the databses automatically.
+then enjoy the project.
